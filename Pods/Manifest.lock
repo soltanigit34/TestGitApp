@@ -1,0 +1,63 @@
+PODS:
+  - AnimatedCollectionViewLayout (0.5.0)
+  - collection-view-layouts/Core (0.1.2)
+  - collection-view-layouts/FacebookLayout (0.1.2):
+    - collection-view-layouts/Core
+  - collection-view-layouts/FlickrLayout (0.1.2):
+    - collection-view-layouts/Core
+  - collection-view-layouts/FlipboardLayout (0.1.2):
+    - collection-view-layouts/Core
+  - collection-view-layouts/InstagramLayout (0.1.2):
+    - collection-view-layouts/Core
+  - collection-view-layouts/PinterestLayout (0.1.2):
+    - collection-view-layouts/Core
+  - collection-view-layouts/Px500Layout (0.1.2):
+    - collection-view-layouts/Core
+  - collection-view-layouts/TagsLayout (0.1.2):
+    - collection-view-layouts/Core
+  - CollectionKit (2.3.0):
+    - CollectionKit/Core (= 2.3.0)
+  - CollectionKit/Core (2.3.0)
+  - FSPagerView (0.8.2)
+  - SquareFlowLayout (0.0.1)
+  - VegaScrollFlowLayout (1.1)
+  - ViewAnimator (2.2.2)
+
+DEPENDENCIES:
+  - AnimatedCollectionViewLayout
+  - collection-view-layouts/Core
+  - collection-view-layouts/FacebookLayout
+  - collection-view-layouts/FlickrLayout
+  - collection-view-layouts/FlipboardLayout
+  - collection-view-layouts/InstagramLayout
+  - collection-view-layouts/PinterestLayout
+  - collection-view-layouts/Px500Layout
+  - collection-view-layouts/TagsLayout
+  - CollectionKit
+  - FSPagerView
+  - SquareFlowLayout
+  - VegaScrollFlowLayout
+  - ViewAnimator
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AnimatedCollectionViewLayout
+    - collection-view-layouts
+    - CollectionKit
+    - FSPagerView
+    - SquareFlowLayout
+    - VegaScrollFlowLayout
+    - ViewAnimator
+
+SPEC CHECKSUMS:
+  AnimatedCollectionViewLayout: 8b660a623d85001f76f00f0d2302a7b043c72bda
+  collection-view-layouts: f3da16bf3211ecb885bb3e45160c2267edf5b65e
+  CollectionKit: 6910479bf865bfe49040e73322ce4b8fe8991231
+  FSPagerView: 816a18842306973cc7cc6df8a5332272f7815c30
+  SquareFlowLayout: cde3486d3086fb7f95b303d9b90bb86aa9dd98b5
+  VegaScrollFlowLayout: 9158061f29179147755f937c2b21693fc5dbbac3
+  ViewAnimator: 6eaa112663b6a2d9e6b2573df65b416dd051cbe4
+
+PODFILE CHECKSUM: 5ffaa308b5109448979aba17616d95d3f86617bc
+
+COCOAPODS: 1.6.0
